@@ -1,0 +1,47 @@
+vehicle_id,component,km_lower,km_upper,date,type,notes
+1,Alternator,95931,,2024-04,Repair,
+1,Electrical wiring,95931,,2024-04,Repair,
+1,Ignition coils,101871,,2024-06,Repair,
+1,Ignition coils,106308,,2024-07,Repair,
+1,Front axle / CV,106308,,2024-07,Repair,
+1,Ball joints,106308,,2024-07,Repair,
+1,Sway bar parts,106308,,2024-07,Repair,
+1,Cooler lines,113016,,2024-10,Repair,
+1,Cooler lines,149494,,2025-12,Repair,
+1,Wheel hubs,153174,,2026-01,Repair,
+1,Brakes,149494,,2025-12,Wear,
+2,Brakes,128392,,2019-12,Wear,
+3,Block heater,62589,,2019-11,Possible campaign,Serviced not confirmed replacement
+3,Wiper switch,67475,,2020-03,Repair,
+3,Oil cap/seal,,,2022-06,Repair,Reported 58043 possibly miles equivalent 93411 km
+3,Water pump,163965,,2025-11,Repair,Gasket and coolant included
+3,Belt,163965,,2025-11,Maintenance,
+6,Cooler lines,,,2026-11,Inspection,Leak planned replacement not confirmed
+8,Block heater,102815,,2021-01,Possible campaign,
+8,Door latch,102815,,2021-01,Possible campaign,
+9,Brakes,82685,,2018-10,Wear,
+9,Differential fluid,82685,,2018-10,Maintenance,
+10,Tailpipe,217541,,2026-01,Repair,
+10,Windshield,87437,,2021-03,Other,
+10,Wheels,119611,,2022-11,Other,
+11,Belt,142567,143030,2020-04,Maintenance,
+11,Spark plugs,142567,143030,2020-04,Maintenance,
+11,Differential fluid,142567,143030,2020-04,Maintenance,
+11,Transmission service,142567,143030,2020-04,Maintenance,
+11,Struts,163535,167583,2024-11,Repair,Prior collision
+11,Front axle / CV,167583,,2025-10,Repair,Prior collision causal link unknown
+11,Differential pinion seal,167583,,2025-10,Repair,Prior collision causal link unknown
+11,Struts,167583,,2025-10,Repair,
+11,TPMS sensor,171012,,2026-04,Repair,
+11,PCM,172110,,2026-08,Possible campaign,
+12,Thermostat,67411,,2022-01,Repair,
+13,Brakes,91465,,2020-09,Wear,
+13,Wheel hubs,114999,140462,2021-10,Repair,
+13,Brakes,114999,140462,2021-10,Wear,Rear rotor resurfacing
+13,Fuel pressure sensor,156288,,2022-09,Repair,Tank removed and reinstalled
+13,Upper control arms,156288,,2022-09,Repair,
+13,Brakes,185456,,2023-07,Wear,
+13,Thermostat,199343,,2023-11,Repair,
+13,Thermostat housing,199343,,2023-11,Repair,
+13,Starter,232011,,2024-12,Repair,Hard start diagnosis at 218676
+13,PCM,235011,,2026-07,Possible campaign,
